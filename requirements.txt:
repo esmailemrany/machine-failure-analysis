@@ -4,3 +4,7 @@ matplotlib
 seaborn
 jupyter
 openpyxl
+scikit-learn
+imbalanced-learn
+joblib
+gradio
