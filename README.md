@@ -131,34 +131,23 @@ Performance for rare categories should be interpreted cautiously because the tes
 
 📈 Power BI Dashboards
 
-Dashboard 1
+<div align="center">Dashboard 1
 
-"Power BI Dashboard 1" (https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/PowerBi1.png)
+<img src="https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/PowerBi1.png" width="90%" alt="Power BI Dashboard 1" />Dashboard 2
 
-Dashboard 2
+<img src="https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/PowerBi2.png" width="90%" alt="Power BI Dashboard 2" />Dashboard 3
 
-"Power BI Dashboard 2" (https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/PowerBi2.png)
-
-Dashboard 3
-
-"Power BI Dashboard 3" (https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/PowerBi3.png)
-
----
+<img src="https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/PowerBi3.png" width="90%" alt="Power BI Dashboard 3" /></div>---
 
 🐍 Python Analysis and Visualizations
 
-Python Visualization 1
+<div align="center">Python Visualization 1
 
-"Python Visualization 1" (https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/Python1.png)
+<img src="https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/Python1.png" width="90%" alt="Python Visualization 1" />Python Visualization 2
 
-Python Visualization 2
+<img src="https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/Python2.png" width="90%" alt="Python Visualization 2" />Python Visualization 3
 
-"Python Visualization 2" (https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/Python2.png)
-
-Python Visualization 3
-
-"Python Visualization 3" (https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/Python3.png)
-
+<img src="https://raw.githubusercontent.com/esmailemrany/machine-failure-analysis/main/Python3.png" width="90%" alt="Python Visualization 3" /></div>
 🛠️ Technologies Used
 
 - Python — data analysis and model development.
